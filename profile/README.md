@@ -1,10 +1,10 @@
-# Brand Leadership Company 🚀
+# Brand Leadership Circle 🚀
 
-Brand Leadership Company is a team of awesome people who love creating amazing brands for our clients. We are passionate about marketing excellence based on customer closeness and maximising human potential.
+### Welcome to the Brand Leadership Circle github!
 
 ## How to contribute to this repository 💻
 
-This repository contains the source code and documentation for our website. It is only accessible to our internal team members. If you want to contribute to this repository, please follow these steps:
+This repository contains the source code and documentation within the whole company. It is only accessible to our internal team members. If you want to contribute to this repository, please follow these steps:
 
 - Fork this repository
 - Clone your forked repository to your local machine
@@ -15,3 +15,8 @@ This repository contains the source code and documentation for our website. It i
 - Wait for feedback or approval from one of our maintainers
 
 Please make sure your code follows our coding standards and guidelines.
+
+
+## Useful Documentations and Links 
+
+### <a href="url" target="_blank"> Censhare Github Guidelines </a>
