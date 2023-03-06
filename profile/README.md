@@ -19,4 +19,4 @@ Please make sure your code follows our coding standards and guidelines.
 
 ## Useful Documentations and Links 
 
-### <a href="url" target="https://brandleadership.atlassian.net/wiki/spaces/GBIN/pages/712146986/Dev+ops+-+GIT"> Censhare Github Guidelines </a>
+### <a href="https://brandleadership.atlassian.net/wiki/spaces/GBIN/pages/712146986/Dev+ops+-+GIT"> Censhare Github Guidelines </a>
